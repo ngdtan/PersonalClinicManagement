@@ -1,0 +1,13 @@
+D:\QuanLy\QuanLy\bin\Debug\QuanLy.exe.config
+D:\QuanLy\QuanLy\bin\Debug\QuanLy.exe
+D:\QuanLy\QuanLy\bin\Debug\QuanLy.pdb
+D:\QuanLy\QuanLy\bin\Debug\EntityFramework.dll
+D:\QuanLy\QuanLy\bin\Debug\EntityFramework.xml
+D:\QuanLy\QuanLy\obj\Debug\QuanLy.csproj.AssemblyReference.cache
+D:\QuanLy\QuanLy\obj\Debug\QuanLy.Form1.resources
+D:\QuanLy\QuanLy\obj\Debug\QuanLy.Properties.Resources.resources
+D:\QuanLy\QuanLy\obj\Debug\QuanLy.csproj.GenerateResource.cache
+D:\QuanLy\QuanLy\obj\Debug\QuanLy.csproj.CoreCompileInputs.cache
+D:\QuanLy\QuanLy\obj\Debug\QuanLy.csproj.CopyComplete
+D:\QuanLy\QuanLy\obj\Debug\QuanLy.exe
+D:\QuanLy\QuanLy\obj\Debug\QuanLy.pdb
